@@ -1,0 +1,10 @@
+.cart{
+  /* width: 500px; */
+  border: 1px solid gray;
+  display: flex;
+  justify-content: space-evenly;  
+}
+.counter
+{
+   margin-top: 300px;
+}

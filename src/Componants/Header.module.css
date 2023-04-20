@@ -1,0 +1,16 @@
+.element {
+  display: flex;
+  flex-direction: row;
+}
+.link {
+  margin-left: 20px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.navbar{
+  border: 2px solid black;
+  height: 70px;
+  background-color: gray;
+}
